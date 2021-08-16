@@ -140,8 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bublleSort.c" />
-    <ClCompile Include="Insertion Sort.cpp" />
+    <ClCompile Include="Insertion Sort.c" />
+    <ClCompile Include="InsertionSortingSequence.c" />
+    <ClCompile Include="JustSorting.c" />
+    <ClCompile Include="MillionSorting.c" />
+    <ClCompile Include="QuickSorting.c" />
     <ClCompile Include="Selection_Sort.c" />
+    <ClCompile Include="testCaseMillion.cpp" />
+    <ClCompile Include="ThreeNumSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

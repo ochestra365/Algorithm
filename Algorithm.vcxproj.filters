@@ -21,7 +21,25 @@
     <ClCompile Include="bublleSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Insertion Sort.cpp">
+    <ClCompile Include="Insertion Sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSortingSequence.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSorting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeNumSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="JustSorting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MillionSorting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testCaseMillion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
