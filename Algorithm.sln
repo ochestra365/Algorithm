@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm.vcxproj", "{D7EE5DB9-E61B-4347-A68B-D4F8F8550685}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "정렬", "Algorithm.vcxproj", "{D7EE5DB9-E61B-4347-A68B-D4F8F8550685}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "자료구조", "..\자료구조\자료구조.vcxproj", "{30222185-583E-4A69-9B2D-5099CF6B9A0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{D7EE5DB9-E61B-4347-A68B-D4F8F8550685}.Release|x64.Build.0 = Release|x64
 		{D7EE5DB9-E61B-4347-A68B-D4F8F8550685}.Release|x86.ActiveCfg = Release|Win32
 		{D7EE5DB9-E61B-4347-A68B-D4F8F8550685}.Release|x86.Build.0 = Release|Win32
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Debug|x64.ActiveCfg = Debug|x64
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Debug|x64.Build.0 = Debug|x64
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Debug|x86.Build.0 = Debug|Win32
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Release|x64.ActiveCfg = Release|x64
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Release|x64.Build.0 = Release|x64
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Release|x86.ActiveCfg = Release|Win32
+		{30222185-583E-4A69-9B2D-5099CF6B9A0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

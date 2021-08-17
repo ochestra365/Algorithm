@@ -24,6 +24,7 @@
     <ProjectGuid>{d7ee5db9-e61b-4347-a68b-d4f8f8550685}</ProjectGuid>
     <RootNamespace>Algorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>정렬</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -142,6 +143,8 @@
     <ClCompile Include="BottomArrow.cpp" />
     <ClCompile Include="bublleSort.c" />
     <ClCompile Include="compare_sorting.cpp" />
+    <ClCompile Include="ComplicatedString.cpp" />
+    <ClCompile Include="CountingSorting.cpp" />
     <ClCompile Include="CPlusPlusSOrting.cpp" />
     <ClCompile Include="CPLUSPLUSSTLSORT.cpp" />
     <ClCompile Include="CplusplusSTLSORT2.cpp" />
@@ -156,8 +159,10 @@
     <ClCompile Include="Selection_Sort.c" />
     <ClCompile Include="SortingStudent.cpp" />
     <ClCompile Include="SpecificVariance.cpp" />
+    <ClCompile Include="StringSorting.cpp" />
     <ClCompile Include="testCaseMillion.c" />
     <ClCompile Include="ThreeNumSort.c" />
+    <ClCompile Include="VeryQuckSorting.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
