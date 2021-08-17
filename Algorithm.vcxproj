@@ -139,11 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BottomArrow.cpp" />
     <ClCompile Include="bublleSort.c" />
     <ClCompile Include="compare_sorting.cpp" />
     <ClCompile Include="CPlusPlusSOrting.cpp" />
     <ClCompile Include="CPLUSPLUSSTLSORT.cpp" />
     <ClCompile Include="CplusplusSTLSORT2.cpp" />
+    <ClCompile Include="HeapSort.c" />
+    <ClCompile Include="HeapSortingTO.cpp" />
     <ClCompile Include="Insertion Sort.c" />
     <ClCompile Include="InsertionSortingSequence.c" />
     <ClCompile Include="JustSorting.c" />

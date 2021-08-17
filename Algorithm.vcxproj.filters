@@ -63,5 +63,14 @@
     <ClCompile Include="SortingStudent.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HeapSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSortingTO.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BottomArrow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
