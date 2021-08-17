@@ -39,7 +39,28 @@
     <ClCompile Include="MillionSorting.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="testCaseMillion.cpp">
+    <ClCompile Include="testCaseMillion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPLUSPLUSSTLSORT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlusPlusSOrting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="compare_sorting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecificVariance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CplusplusSTLSORT2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SortingStudent.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
