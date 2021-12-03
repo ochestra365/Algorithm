@@ -1,4 +1,4 @@
-/*/°¡Àå ÀÛÀº °ÍÀ» ¼±ÅÃÇØ¼­ Á¦ÀÏ ¾ÕÀ¸·Î º¸³»¸é ¾î¶³±î?
+//ê°€ìž¥ ìž‘ì€ ê²ƒì„ ì„ íƒí•´ì„œ ì œì¼ ì•žìœ¼ë¡œ ë³´ë‚´ë©´ ì–´ë–¨ê¹Œ?
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main(void) {
@@ -18,4 +18,3 @@ int main(void) {
 	}
 	return 0;
 }
-*/
