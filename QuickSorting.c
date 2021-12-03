@@ -1,5 +1,5 @@
-/*/ Æ¯Á¤ÇÑ °ªÀ» ±âÁØÀ¸·Î Å« ¼ýÀÚ¿Í ÀÛÀº ¼ýÀÚ¸¦ ³ª´©¸é ¾î¶³±î?
-// °Ì³ª ºü¸¥ Äü¼ÒÆ®(Àç±ÍÁ¤·Ä)
+// íŠ¹ì •í•œ ê°’ì„ ê¸°ì¤€ìœ¼ë¡œ í° ìˆ«ìžì™€ ìž‘ì€ ìˆ«ìžë¥¼ ë‚˜ëˆ„ë©´ ì–´ë–¨ê¹Œ?
+// ê²ë‚˜ ë¹ ë¥¸ í€µì†ŒíŠ¸(ìž¬ê·€ì •ë ¬)
 #define _CRT_SECURE_NO_WARNIGNS
 #include <stdio.h>
 
@@ -36,4 +36,3 @@ int main(void) {
 	show();
 	return 0;
 }
-*/
