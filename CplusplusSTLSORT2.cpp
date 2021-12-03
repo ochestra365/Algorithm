@@ -1,18 +1,18 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
 
 int main(void) {
 	vector<pair<int, string>>v;
-	v.push_back(pair<int, string>(90, "¹ÚÇÑ¿ï"));
-	v.push_back(pair<int, string>(85, "ÀÌÅÂÀÏ"));
-	v.push_back(pair<int, string>(82, "³ªµ¿ºó"));
-	v.push_back(pair<int, string>(98, "°­Á¾±¸"));
-	v.push_back(pair<int, string>(79, "ÀÌ»ó¿í"));
+	v.push_back(pair<int, string>(90, "ë°•í•œìš¸"));
+	v.push_back(pair<int, string>(85, "ì´íƒœì¼"));
+	v.push_back(pair<int, string>(82, "ë‚˜ë™ë¹ˆ"));
+	v.push_back(pair<int, string>(98, "ê°•ì¢…êµ¬"));
+	v.push_back(pair<int, string>(79, "ì´ìƒìš±"));
 	sort(v.begin(), v.end());
 	for (int i = 0; i < v.size(); i++) {
 		cout << v[i].second << ' ';
 	}
 	return 0;
-}*/
+}
