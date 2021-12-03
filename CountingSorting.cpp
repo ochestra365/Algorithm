@@ -1,5 +1,5 @@
-//Å©±â¸¦ ±âÁØÀ¸·Î °¹¼ö¸¦ ¼¾´Ù.
-/*#include <stdio.h>
+//í¬ê¸°ë¥¼ ê¸°ì¤€ìœ¼ë¡œ ê°¯ìˆ˜ë¥¼ ì„¼ë‹¤.
+#include <stdio.h>
 
 int main(void) {
 	int temp;
@@ -13,4 +13,4 @@ int main(void) {
 		if (count[i] != 0)for (int j = 0; j < count[i]; j++)printf("%d ", i);
 	}
 	return 0;
-}*/
+}
