@@ -1,15 +1,15 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 using namespace std;
 int number;
 int heap[1000001];
 
 void heapify(int i) {
-	//¿ŞÂÊ ÀÚ½Ä ³ëµå¸¦ °¡¸®Å²´Ù.
+	//ì™¼ìª½ ìì‹ ë…¸ë“œë¥¼ ê°€ë¦¬í‚¨ë‹¤.
 	int c = 2 * i + 1;
-	//¿À¸¥ÂÊ ÀÚ½Ä ³ëµå°¡ ÀÖ°í, ¿ŞÂÊ ÀÚ½Ä³ëµåº¸´Ù Å©´Ù¸é
+	//ì˜¤ë¥¸ìª½ ìì‹ ë…¸ë“œê°€ ìˆê³ , ì™¼ìª½ ìì‹ë…¸ë“œë³´ë‹¤ í¬ë‹¤ë©´
 	if (c < number && heap[c] < heap[c + 1])c++;
-	//ºÎ¸ğº¸´Ù ÀÚ½ÄÀÌ ´õ Å©´Ù¸é À§Ä¡¸¦ ±³È¯ÇÑ´Ù.
+	//ë¶€ëª¨ë³´ë‹¤ ìì‹ì´ ë” í¬ë‹¤ë©´ ìœ„ì¹˜ë¥¼ êµí™˜í•œë‹¤.
 	if (heap[i] < heap[c]) {
 		int temp = heap[i];
 		heap[i] = heap[c];
@@ -47,4 +47,4 @@ int main(void) {
 		} while (c < i);
 	}
 	return 0;
-}*/
+}
