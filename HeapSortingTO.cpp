@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int number = 9;
@@ -36,4 +36,4 @@ int main(void) {
 	}
 	for (int i = 0; i < number; i++)printf("%d\t", heap[i]);
 	return 0;*/
-//}
+}
