@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 #include <vector>
 using namespace std;
@@ -35,4 +35,4 @@ int main(void) {
 		cout << v[i] << endl;
 	}
 	return 0;
-}*/
+}
