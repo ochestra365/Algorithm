@@ -1,5 +1,5 @@
-//ÀÏ´Ü ¹İÀ¸·Î ³ª´©°í ³ªÁß¿¡ ÇÕÃÄ¼­ Á¤·ÄÇÏ¸é ¾î¶³±î?
-/*#define _CRT_SECURE_NO_WARNINGS
+//ì¼ë‹¨ ë°˜ìœ¼ë¡œ ë‚˜ëˆ„ê³  ë‚˜ì¤‘ì— í•©ì³ì„œ ì •ë ¬í•˜ë©´ ì–´ë–¨ê¹Œ?
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int number = 8;
 int size;
@@ -50,4 +50,4 @@ int main(void) {
 	mergeSort(array, 0, number - 1);
 	for (int i = 0; i < number; i++)printf("%d", array[i]);
 	return 0;
-}*/
+}
