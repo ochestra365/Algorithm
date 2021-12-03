@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int array[1001];
 
@@ -20,4 +20,4 @@ int main(void) {
 	}
 	for (i =0; i < number; i++) printf("%d\t", array[i]);
 	return 0;
-}*/
+}
