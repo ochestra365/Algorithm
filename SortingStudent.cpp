@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -13,14 +13,14 @@ bool compare(pair<string, pair<int, int>>a,
 }
 int main(void) {
 	vector < pair<string, pair<int, int>>>v;
-	v.push_back(pair<string, pair<int, int>>("³ªµ¿ºó", make_pair(90, 19961222)));
-	v.push_back(pair<string, pair<int, int>>("ÀÌÅÂÀÏ", make_pair(97, 19930518)));
-	v.push_back(pair<string, pair<int, int>>("¹ÚÇÑ¿ï", make_pair(95, 19930203)));
-	v.push_back(pair<string, pair<int, int>>("ÀÌ»ó¿í", make_pair(90, 19921207)));
-	v.push_back(pair<string, pair<int, int>>("°­Á¾±¸", make_pair(88, 19900302)));
+	v.push_back(pair<string, pair<int, int>>("ë‚˜ë™ë¹ˆ", make_pair(90, 19961222)));
+	v.push_back(pair<string, pair<int, int>>("ì´íƒœì¼", make_pair(97, 19930518)));
+	v.push_back(pair<string, pair<int, int>>("ë°•í•œìš¸", make_pair(95, 19930203)));
+	v.push_back(pair<string, pair<int, int>>("ì´ìƒìš±", make_pair(90, 19921207)));
+	v.push_back(pair<string, pair<int, int>>("ê°•ì¢…êµ¬", make_pair(88, 19900302)));
 	sort(v.begin(), v.end(), compare);
 	for (int i = 0; i < v.size(); i++) {
 		cout << v[i].first << ' ';
 	}
 	return 0;
-}*/
+}
