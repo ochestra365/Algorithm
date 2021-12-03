@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int n;
@@ -22,4 +22,4 @@ int main(void) {
 		printf("\n");
 	}
 	return 0;
-}*/
+}
