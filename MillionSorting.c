@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int number, data[1000000];
@@ -23,4 +23,4 @@ int main(void) {
 	quickSort(data, 0, number - 1);
 	for (int i = 0; i < number; i++)printf("%d\n", data[i]);
 	return 0;
-}*/
+}
