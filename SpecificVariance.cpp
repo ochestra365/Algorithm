@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 using namespace std;
 class Student {
@@ -16,13 +16,13 @@ public:
 bool compare(int a, int b) { return a > b; }
 int main(void) {
 	Student student[] = {
-		Student("³ªµ¿ºó",90),
-		Student("ÀÌ»ó¿í",93),
-		Student("¹ÚÇÑ¿ï",97),
-		Student("°­Á¾±¸",87),
-		Student("ÀÌÅÂÀÏ",92)
+		Student("ë‚˜ë™ë¹ˆ",90),
+		Student("ì´ìƒìš±",93),
+		Student("ë°•í•œìš¸",97),
+		Student("ê°•ì¢…êµ¬",87),
+		Student("ì´íƒœì¼",92)
 	};
 	sort(student, student + 5);
 	for (int i = 0; i < 5; i++) { cout << student[i].name << ' '; }
 	return 0;
-}*/
+}
