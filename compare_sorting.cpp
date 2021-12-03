@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 using namespace std;
 
@@ -9,4 +9,4 @@ int main(void) {
 	sort(a, a + 10, compare);
 	for (int i = 0; i < 10; i++) { cout << a[i] << ' '; }
 	return 0;
-}*/
+}
